@@ -34,7 +34,10 @@ function Body() {
         <div className="body_1_container">
           <div className="body_1_1">
             <li>
-              <a href="#" title="E-mail">
+              <a
+                href="https://mail.google.com/mail/u/0/#inbox?compose=CrpPbDzGcdsRLnpZCpVwTcHfRlPjCbCSCBQBmVRKfsRMVjrSjpmknQPvrCtXZTVTjffgkFrsjFMJlrpvSwjq"
+                title="E-mail"
+              >
                 <MdEmail fontSize={40} color="yellow" /> <h2>E-mail</h2>
               </a>
             </li>
@@ -45,12 +48,15 @@ function Body() {
               </a>
             </li>
             <li>
-              <a href="#" title="Linkedin">
+              <a
+                href="https://www.linkedin.com/in/peter-augustine-436617248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+                title="Linkedin"
+              >
                 <FaLinkedin fontSize={40} color="yellow" /> <h2>Linkedin</h2>
               </a>
             </li>
             <li>
-              <a href="#" title="Twitter">
+              <a href="https://twitter.com/Deon__P" title="Twitter">
                 <FaTwitter fontSize={40} color="yellow" /> <h2>Twitter</h2>
               </a>
             </li>
@@ -60,7 +66,7 @@ function Body() {
               </a>
             </li>
             <li>
-              <a href="#" title="GitHub">
+              <a href="https://github.com/Peterisabu17" title="GitHub">
                 <FaGithub fontSize={40} color="yellow" /> <h2>Github</h2>
               </a>
             </li>
