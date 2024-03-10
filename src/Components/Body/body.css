@@ -476,7 +476,7 @@ body {
   }
 }
 
-@media (max-width: 375px) {
+@media (max-width: 360px) {
   .body_1_container {
     height: 370px;
   }
