@@ -517,7 +517,8 @@ body {
   }
 
   .intro_button {
-    display: flex;
+    /* display: flex; */
+    display: none;
     justify-content: center;
     margin-top: 35px;
     gap: 5px;
