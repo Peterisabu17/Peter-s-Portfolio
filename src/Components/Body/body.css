@@ -517,14 +517,14 @@ body {
   }
 
   .intro_button {
-    /* display: flex; */
     display: none;
+    /* display: flex;
     justify-content: center;
     margin-top: 35px;
-    gap: 5px;
+    gap: 5px; */
   }
 
-  .intro_button .btn_1 {
+  /* .intro_button .btn_1 {
     gap: 2px;
     align-items: center;
     justify-content: center;
@@ -536,7 +536,7 @@ body {
 
   .intro_button h1 {
     font-size: 8px;
-  }
+  } */
 
   /* body 2 */
   .body_2 {
