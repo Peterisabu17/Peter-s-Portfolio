@@ -133,7 +133,7 @@ function Body() {
         <div className="body-2_left">
           <p>
             FrontEnd Skills: <br /> HTML + CSS + JAVA SCRIPT + REACT+DOM
-            MANIPULATION + NODE.JS + JSON + PROBLEM SOLVING
+            MANIPULATION + NODE.JS + JSON + PROBLEM SOLVING + API
           </p>
         </div>
         <div className="body-2_middle body_3_box grey_job">
