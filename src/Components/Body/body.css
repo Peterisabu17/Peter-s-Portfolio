@@ -424,13 +424,21 @@ body {
     gap: 10px;
   }
 
-  .intro_button .btn_1 p {
+  .intro_button p {
+    font-size: 5px;
+  }
+
+  .intro_button h1 {
+    font-size: 8px;
+  }
+
+  /* .intro_button .btn_1 p {
     font-size: 8px;
   }
 
   .intro_button h1 {
     font-size: 15px;
-  }
+  } */
 
   /* body 2 */
   .body_2 {
