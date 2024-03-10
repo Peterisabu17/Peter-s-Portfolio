@@ -386,6 +386,10 @@ body {
     height: 370px;
   }
 
+  .body_1_1 {
+    padding-left: 15px;
+  }
+
   .body_1_1 li a h2 {
     font-size: 10px;
   }
