@@ -419,6 +419,7 @@ body {
   }
 
   .intro_button {
+    /* display: none; */
     margin-top: 35px;
     gap: 10px;
   }
@@ -476,7 +477,7 @@ body {
   }
 }
 
-@media (max-width: 360px) {
+@media (max-width: 375px) {
   .body_1_container {
     height: 370px;
   }
@@ -518,11 +519,15 @@ body {
 
   .intro_button {
     display: none;
-    /* display: flex;
+  }
+
+  /* .intro_button {
+    display: none;
+    display: flex;
     justify-content: center;
     margin-top: 35px;
-    gap: 5px; */
-  }
+    gap: 5px;
+  } */
 
   /* .intro_button .btn_1 {
     gap: 2px;
