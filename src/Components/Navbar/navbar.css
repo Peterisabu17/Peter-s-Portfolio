@@ -90,7 +90,7 @@
     font-weight: 800;
   }
 
-  .navbar_container .right button {
+  .navbar_container .right .contact {
     display: none;
   }
 }
