@@ -18,15 +18,29 @@ function Navbar({ children }) {
               <a href=""></a>
             </li>
             <li>
-              <a href="">About</a>
+              <a href="resume/CANVA_proof_II-AY7N0sfBsmkw.pdf" target="_blank">
+                About
+              </a>
+              {/* <a href="">About</a> */}
             </li>
             <li>
               <a href="">Projects</a>
             </li>
             <li>
-              <a href="">Profile</a>
+              <a href="resume/CANVA_proof_II-AY7N0sfBsmkw.pdf" target="_blank">
+                Profile
+              </a>
+              {/* <a href="">Profile</a> */}
             </li>
-            <button className="contact">Contact Me</button>
+            <a
+              href="resume/CANVA_proof_II-AY7N0sfBsmkw.pdf"
+              target="_blank"
+              className="contact"
+            >
+              Contact Me
+            </a>
+
+            {/* <button className="contact">Contact Me</button> */}
           </ul>
         </div>
       </div>
