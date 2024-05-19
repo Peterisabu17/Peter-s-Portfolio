@@ -57,7 +57,7 @@ function Body() {
             </li>
             <li>
               <a href="https://twitter.com/Deon__P" title="Twitter">
-                <FaTwitter fontSize={40} color="yellow" /> <h2>Twitter</h2>
+                <FaTwitter fontSize={40} color="yellow" /> <h2>Twitter.</h2>
               </a>
             </li>
             <li>
